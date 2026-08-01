@@ -2,6 +2,6 @@
 1- My first C++ program.
 <br>2- Add Hello.cpp
 <br>3- Main.cpp
-<br> 4 sum of tow no
+<br> 4 sum of two no.
 
 
