@@ -5,5 +5,5 @@
 <br>4- Sum of two no.
 <br>5-Multiple of two no.
 <br>6-division of two no.
-
+<br>7-simple interest calculate.
 
