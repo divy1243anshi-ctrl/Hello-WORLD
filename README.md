@@ -4,5 +4,5 @@
 <br>3- Main.cpp
 <br>4-"print welcome to psit"
 <br>5-"print welcome."
-<br>6-"print details"
+<br>6-"print details."
 
