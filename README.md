@@ -5,5 +5,5 @@
 <br>4-"print welcome to psit"
 <br>5-"print welcome."
 <br>6-"print personal details"
-swap two number
+<br>7-"swap two number"
 
