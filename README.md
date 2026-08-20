@@ -6,6 +6,6 @@
 <br>5-"print welcome."
 <br>6-"print personal details"
 <br>7-"swap two number"
-<br> 6-"Journey or PSA"
-<br> conditions in PSA
+<br> 8-"Journey or PSA"
+<br> 9-conditions in PSA
 
