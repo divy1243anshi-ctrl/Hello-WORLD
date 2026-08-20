@@ -7,5 +7,5 @@
 <br>6-"print personal details"
 <br>7-"swap two number"
 <br> 6-"Journey or PSA"
-conditions in PSA
+<br> conditions in PSA
 
