@@ -8,4 +8,5 @@
 <br>7-"swap two number"
 <br> 8-"Journey or PSA"
 <br> 9-conditions in PSA
+input of number
 
