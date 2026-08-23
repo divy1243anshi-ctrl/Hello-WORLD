@@ -6,7 +6,7 @@
 <br>5-"print welcome."
 <br>6-"print personal details"
 <br>7-"swap two number"
-swap two number without using third variable.
+<br>"swap two number without using third variable".
 <br> 8-"Journey or PSA"
 <br> 9-conditions in PSA
 <br> 10-input of number
