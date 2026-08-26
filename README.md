@@ -10,4 +10,5 @@
 <br> 8-"Journey or PSA"
 <br> 9-conditions in PSA
 <br> 10-input of number
+swap two number using third variable.
 
