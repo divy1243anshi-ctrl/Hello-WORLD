@@ -11,5 +11,5 @@
 <br> 9-conditions in PSA
 <br> 10-input of number
 <br> 11-swap two number using third variable.
-swap two number without using third variable.
+12swap two number without using third variable.
 
