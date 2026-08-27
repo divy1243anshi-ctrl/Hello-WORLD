@@ -12,4 +12,4 @@
 <br> 10-input of number
 <br> 11-swap two number using third variable.
 <br> 12-swap two number without using third variable.
-
+check wheather is leap year or not.
