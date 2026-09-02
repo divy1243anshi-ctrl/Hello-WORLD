@@ -13,4 +13,4 @@
 <br> 11-swap two number using third variable.
 <br> 12-swap two number without using third variable.
 <br> 13-Check wheather is leap year or Not.
-print the grade of student.
+<br>print the grade of student.
