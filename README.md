@@ -14,5 +14,5 @@
 <br> 12-swap two number without using third variable.
 <br> 13-Check wheather is leap year or Not.
 <br> 14-print the grade of student.
-<br> armstrong 
+<br> 15-armstrong 
 number
