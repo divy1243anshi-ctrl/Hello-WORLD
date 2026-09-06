@@ -15,4 +15,3 @@
 <br> 13-Check wheather is leap year or Not.
 <br> 14-print the grade of student.
 <br> 15-armstrong number.
-number
