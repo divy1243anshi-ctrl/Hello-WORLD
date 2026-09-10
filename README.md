@@ -16,3 +16,5 @@
 <br> 14-print the grade of student.
 <br> 15-armstrong number.
 <br> 16-Prime number.
+spy number.
+
