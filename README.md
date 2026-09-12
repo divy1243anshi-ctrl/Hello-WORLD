@@ -17,4 +17,5 @@
 <br> 15-armstrong number.
 <br> 16-Prime number.
 <br> 17-spy number.
+reverse number.
 
