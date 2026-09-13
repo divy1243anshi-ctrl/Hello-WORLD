@@ -17,6 +17,6 @@
 <br> 15-armstrong number.
 <br> 16-Prime number.
 <br> 17-spy number.
-<br> 18. reverse number. palindrome number
+<br> 18. reverse number. 19. palindrome number
 
 
