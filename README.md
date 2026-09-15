@@ -18,5 +18,6 @@
 <br> 16-Prime number.
 <br> 17-spy number.
 <br> 18. reverse number. <br> 19. palindrome number
+using array swap to numbers.
 
 
