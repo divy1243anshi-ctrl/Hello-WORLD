@@ -19,6 +19,6 @@
 <br> 17-spy number.
 <br> 18. reverse number. <br> 19. palindrome number
 <br> 20-using array swap to numbers.
-by using array print sum of two number.
+<br> 21.by using array print sum of two number.
 
 
