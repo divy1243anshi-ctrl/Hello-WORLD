@@ -20,6 +20,6 @@
 <br> 18. reverse number. <br> 19. palindrome number
 <br> 20-using array swap to numbers.
 <br> 21.By using array print sum of two number.
-print a matrix by using array.
+<br> 22-print a matrix by using array.
 
 
