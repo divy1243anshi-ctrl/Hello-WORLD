@@ -21,5 +21,6 @@
 <br> 20-using array swap to numbers.
 <br> 21.By using array print sum of two number.
 <br> 22-Print a matrix by using array.
+sum of two matrix.
 
 
