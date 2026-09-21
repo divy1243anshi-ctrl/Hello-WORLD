@@ -23,5 +23,6 @@
 <br> 21.By using array print sum of two number.
 <br> 22-Print a matrix by using array.
 <br> 23-sum of two matrix.
+<br> 24- fabunious series.
 
 
