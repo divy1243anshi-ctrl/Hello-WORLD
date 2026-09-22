@@ -24,6 +24,6 @@
 <br> 22-Print a matrix by using array.
 <br> 23-sum of two matrix.
 <br> 24- fabunious series.
-write a function declaration program.
+<br> write a function declaration program.
 
 
