@@ -31,6 +31,6 @@ print largest numbmer by using array.
 <br> 26- Use of array print largest number.
 <br> 27 - Searching Program.
 <br> 26 - sorting program.
-bubble sorting.
+<br> bubble sorting.
 
 
