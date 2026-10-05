@@ -30,8 +30,8 @@ print largest numbmer by using array.
 <br> 25 - write a function declaration program.
 <br> 26- Use of array print largest number.
 <br> 27 - Searching Program.
-<br> 28 - sorting program.
-<br> 29 - Bubble sorting.
+<br> 28 - sorting Program.
+<br> 29 - Bubble Sorting.
 <br> 30 - Searching Sorting.
 
 
