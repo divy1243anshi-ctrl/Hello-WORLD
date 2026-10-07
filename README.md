@@ -14,7 +14,7 @@
 <br> 12-swap two number without using third variable.
 <br> 13-Check wheather is leap year or Not.
 <br> 14-print the grade of student.
-<br> 15-armstrong number.
+<br> 15-Armstrong number.
 <br> 16-Prime number.
 <br> 17-spy number.
 <br> 18. reverse number. <br> 19. palindrome number
