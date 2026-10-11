@@ -16,7 +16,7 @@
 <br> 14-print the grade of student.
 <br> 15-Armstrong number.
 <br> 16-Prime number.
-<br> 17-spy number.
+<br> 17-Spy number.
 <br> 18. reverse number. <br> 19. palindrome number
 <br> 19.fabounies series.
 <br> 20-using array swap to numbers.
