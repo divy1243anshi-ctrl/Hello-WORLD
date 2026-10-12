@@ -36,5 +36,5 @@ print largest numbmer by using array.
 <br> 31 - Return Type No Return.
 <br> 32 - Return Type.
 <br> 33 - Linear sorting.
-<br> 34- Make program using Pointer.
+<br> 34- Make program Using Pointer.
 
