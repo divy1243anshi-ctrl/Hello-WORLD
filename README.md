@@ -37,4 +37,5 @@ print largest numbmer by using array.
 <br> 32 - Return Type.
 <br> 33 - Linear sorting.
 <br> 34- Make Program Using Pointer.
+print asending using pointer.
 
