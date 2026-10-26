@@ -1,4 +1,4 @@
-#: Hello-WORLD
+: Hello-WORLD
 1- My first C program.
 <br>2- Add Hello.cpp
 <br>3- Main.cpp
@@ -24,7 +24,7 @@
 <br> 22-Print a matrix by using array.
 <br> 23-sum of two matrix.
 <br> 24- fabunious series.
-serching program.
+<br> serching program.
 print largest numbmer by using array.
 <br> 26- input array without no return type.
 <br> 25 - write a function declaration program.
