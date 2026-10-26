@@ -20,7 +20,7 @@
 <br> 18. reverse number. <br> 19. palindrome number
 <br> 19.Fabounies series.
 <br> 20-using array swap to numbers.
-<br> 21.By using array print sum of two number.
+<br> 21 By using array print sum of two number.
 <br> 22-Print a matrix by using array.
 <br> 23-sum of two matrix.
 <br> 24- fabunious series.
