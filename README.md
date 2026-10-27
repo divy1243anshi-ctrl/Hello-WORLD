@@ -39,4 +39,5 @@ print largest numbmer by using array.
 <br> 34 - Make Program Using Pointer.
 <br> 35 - Print asending using pointer.
 <br> 36 - Pointer to Pointer.
+function with pointer.
 
