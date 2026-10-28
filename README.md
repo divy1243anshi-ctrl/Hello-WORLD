@@ -40,5 +40,5 @@ print largest numbmer by using array.
 <br> 35 - Print asending using pointer.
 <br> 36 - Pointer to Pointer.
 <br> function with pointer.
-sturutrer with pointer.
+structure with pointer.
 
