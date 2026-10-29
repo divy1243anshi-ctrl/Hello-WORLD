@@ -41,5 +41,5 @@ print largest numbmer by using array.
 <br> 36 - Pointer to Pointer.
 <br> 37 - function with pointer.
 <br> 38 - structure with pointer.
-<br> 39 -Average and marks with structure.
+<br> 39 - Average and marks with structure.
 
