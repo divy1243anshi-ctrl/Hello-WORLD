@@ -42,5 +42,5 @@ print largest numbmer by using array.
 <br> 37 - Function with pointer.
 <br> 38 - structure with pointer.
 <br> 39 - Average and marks with structure.
-<br> 40 - Example of 1D Array
+<br> 40 - Example of 1D Array.
 
