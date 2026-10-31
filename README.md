@@ -4,7 +4,7 @@
 <br>3- Main.cpp
 <br>4-"print welcome to psit"
 <br>5-"print welcome."
-<br>6-"print personal details"
+<br> 6-"print personal details"
 <br>7-"Swap two number"
 <br> "swap two number without using third variable".
 <br> 8-"Journey or PSA"
