@@ -23,7 +23,7 @@
 <br> 21 By using array print sum of two number.
 <br> 22-Print a matrix by using array.
 <br> 23-sum of two matrix.
-<br> 24- fabunious series.
+<br> 24- Fabunious series.
 <br> serching program.
 print largest numbmer by using array.
 <br> 26 - input array without no return type.
