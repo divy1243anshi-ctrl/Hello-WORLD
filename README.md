@@ -47,4 +47,5 @@ print largest numbmer by using array.
 <br> 42 -Nestered Structure.
 <br> 43 - File open in c.
 <br> 44 -read mile in c.
+write file in c.
 
