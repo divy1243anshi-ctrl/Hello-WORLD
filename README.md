@@ -12,7 +12,7 @@
 <br> 10- Input of number
 <br> 11 -Swap two number using third variable.
 <br> 12- Swap two number without using third variable.
-<br> 13-Check wheather is leap year or Not.
+<br> 13- Check wheather is leap year or Not.
 <br> 14- Print the grade of student.
 <br> 15- Armstrong number.
 <br> 16 - Prime number.
