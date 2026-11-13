@@ -8,7 +8,7 @@
 <br>7-"Swap two number"
 <br> "Swap two number without using third variable".
 <br> 8-"Journey or PSA"
-<br> 9 -Conditions in PSA
+<br> 9 - Conditions in PSA
 <br> 10- Input of number
 <br> 11 - Swap two number using third variable.
 <br> 12- Swap two number without using third variable.
