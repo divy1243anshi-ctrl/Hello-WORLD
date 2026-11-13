@@ -24,7 +24,7 @@
 <br> 22-Print a matrix by using array.
 <br> 23-sum of two matrix.
 <br> 24- Fabunious series.
-<br> serching program.
+<br> 25-serching program.
 print largest numbmer by using array.
 <br> 26 - Input array without no return type.
 <br> 25 - write a function declaration program.
