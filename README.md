@@ -44,7 +44,7 @@ print largest numbmer by using array.
 <br> 39 - Average and marks with structure.
 <br> 40 - Example of 1D Array.
 <br> 41 Example of 2D Array.
-<br> 42 -Nestered Structure.
+<br> 42 - Nestered Structure.
 <br> 43 - File open in c.
 <br> 44 - Read file in c.
 <br> 45 - write file in c.
