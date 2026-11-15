@@ -1,6 +1,6 @@
 : Hello-WORLD
 1- My first C program.
-<br> 2- Add Hello.cpp
+<br> 2 - Add Hello.cpp
 <br>3 - Main.cpp
 <br>4-"Print welcome to psit"
 <br>5-"Print welcome."
