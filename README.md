@@ -3,7 +3,7 @@
 <br> 2 - Add Hello.cpp
 <br> 3 - Main.cpp
 <br>4- "Print welcome to psit"
-<br> 5-"Print welcome."
+<br> 5 -"Print welcome."
 <br> 6 - "Print personal details"
 <br> 7-"Swap two number"
 <br> "Swap two number without using third variable".
