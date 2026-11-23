@@ -22,8 +22,8 @@
 <br> 20 - Using array swap to numbers.
 <br> 21 - By using array print sum of two number.
 <br> 22 -Print a matrix by using array.
-<br> 23 - sum of two matrix.
-<br> 24 - Fabunious series.
+<br> 24- sum of two matrix.
+<br> 25 - Fabunious series.
 <br> 25 -serching program.
 44print largest numbmer by using array.
 <br> 26 - Input array without no return type.
