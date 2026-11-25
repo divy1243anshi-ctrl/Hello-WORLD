@@ -31,7 +31,7 @@
 <br> 29 - Use of array print largest number.
 <br> 30 - Searching Program.
 <br> 31 - Sorting Program.
-<br> 29 - Bubble Sorting.
+<br> 32 - Bubble Sorting.
 <br> 30 - Searching Sorting.
 <br> 31 - Return Type No Return.
 <br> 32 - Return Type.
