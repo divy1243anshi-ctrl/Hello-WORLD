@@ -34,7 +34,7 @@
 <br> 32 - Bubble Sorting.
 <br> 33 - Searching Sorting.
 <br> 34 - Return Type No Return.
-<br> 32 - Return Type.
+<br> 35 - Return Type.
 <br> 33 - Linear sorting.
 <br> 34 - Make Program Using Pointer.
 <br> 35 - Print asending using pointer.
