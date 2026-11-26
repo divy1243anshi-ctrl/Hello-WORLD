@@ -32,7 +32,7 @@
 <br> 30 - Searching Program.
 <br> 31 - Sorting Program.
 <br> 32 - Bubble Sorting.
-<br> 30 - Searching Sorting.
+<br> 33 - Searching Sorting.
 <br> 31 - Return Type No Return.
 <br> 32 - Return Type.
 <br> 33 - Linear sorting.
