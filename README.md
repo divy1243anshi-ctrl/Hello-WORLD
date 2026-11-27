@@ -7,7 +7,7 @@
 <br> 6 - "Print personal details"
 <br> 7 - "Swap two number"
 <br> 8- "Swap two number without using third variable".
-<br> 8 -"Journey or PSA"
+<br> 9 -"Journey or PSA"
 <br> 9 - Conditions in PSA
 <br> 10 - Input of number
 <br> 11 - Swap two number using third variable.
